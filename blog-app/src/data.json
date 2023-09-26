@@ -1,0 +1,305 @@
+[
+    {
+      "id": 1,
+      "author_name": "Rajesh Kumar",
+      "email": "rajesh@example.com",
+      "gender": "Male",
+      "image": "https://www.pngmart.com/files/22/User-Avatar-Profile-PNG.png",
+      "author_details": "I'm a technology enthusiast and love to write about the latest tech trends in India.",
+      "blog_name": "TechIndia",
+      "blog_details": "Exploring the world of technology in India."
+    },
+    {
+      "id": 2,
+      "author_name": "Priya Sharma",
+      "email": "priya@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about Indian cuisine and its diverse flavors.",
+      "blog_name": "SpiceJourney",
+      "blog_details": "Discover the rich and aromatic world of Indian spices and recipes."
+     
+    },
+    {
+      "id": 3,
+      "author_name": "David Brown",
+      "email": "david@example.com",
+      "gender": "Male",
+      "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "author_details": "Food lover and restaurant critic.",
+      "blog_name": "TasteExplorer",
+      "blog_details": "Exploring the culinary delights of the world."
+    },
+    {
+      "id": 4,
+      "author_name": "Emily Johnson",
+      "email": "emily@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXZhdGFyfGVufDB8fDB8fHww&w=1000&q=80",
+      "author_details": "Dedicated to fitness and a healthy lifestyle.",
+      "blog_name": "FitLifeJourney",
+      "blog_details": "Achieve your fitness goals with me."
+    },
+    {
+      "id": 5,
+      "author_name": "Vikram Singh",
+      "email": "vikram@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Exploring India's historical heritage and cultural wonders.",
+      "blog_name": "IndianHeritage",
+      "blog_details": "Journey through India's captivating history and heritage sites."
+    },
+    {
+      "id": 6,
+      "author_name": "Sophia Lee",
+      "email": "sophia@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Tech enthusiast and software developer.",
+      "blog_name": "TechGeek",
+      "blog_details": "Diving deep into the world of technology."
+    },
+    {
+      "id": 7,
+      "author_name": "Daniel Martinez",
+      "email": "daniel@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Traveling the world and sharing my experiences.",
+      "blog_name": "TravelerDiaries",
+      "blog_details": "Embark on a journey with me."
+    },
+    {
+      "id": 8,
+      "author_name": "Olivia Davis",
+      "email": "olivia@example.com",
+      "gender": "Female",
+      "image": "https://imgv3.fotor.com/images/gallery/watercolor-female-avatar.jpg",
+      "author_details": "Foodie and cooking enthusiast.",
+      "blog_name": "CulinaryDelights",
+      "blog_details": "Cooking up a storm in the kitchen."
+    },
+    {
+      "id": 9,
+      "author_name": "William Johnson",
+      "email": "william@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about science and innovation.",
+      "blog_name": "ScienceExplorer",
+      "blog_details": "Unraveling the mysteries of science."
+    },
+    {
+      "id": 10,
+      "author_name": "Emma White",
+      "email": "emma@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Fashionista and style influencer.",
+      "blog_name": "FashionForward",
+      "blog_details": "Stay trendy with the latest fashion tips."
+    },
+    {
+      "id": 11,
+      "author_name": "James Anderson",
+      "email": "james@example.com",
+      "gender": "Male",
+      "image": "https://plus.unsplash.com/premium_photo-1664541336896-b3d5f7dec9a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about literature and storytelling.",
+      "blog_name": "BookWorm",
+      "blog_details": "Diving into the world of books and stories."
+    },
+    {
+      "id": 12,
+      "author_name": "Mia Johnson",
+      "email": "mia@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Environmental advocate and nature lover.",
+      "blog_name": "GreenPlanet",
+      "blog_details": "Protecting our planet and exploring its wonders."
+    },
+    {
+      "id": 13,
+      "author_name": "Alexander Smith",
+      "email": "alexander@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Fitness guru and personal trainer.",
+      "blog_name": "FitnessFreak",
+      "blog_details": "Get fit and healthy with me."
+    },
+    {
+      "id": 14,
+      "author_name": "Rahul Verma",
+      "email": "rahul@example.com",
+      "gender": "Male",
+      "image": "https://plus.unsplash.com/premium_photo-1669879825881-6d4e4bde67d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about cricket and all things sports in India.",
+      "blog_name": "CricketMania",
+      "blog_details": "Covering the excitement of cricket in the land of Sachin and Kohli."
+     
+    },
+    {
+      "id": 15,
+      "author_name": "Liam Johnson",
+      "email": "liam@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Adventurer and thrill-seeker.",
+      "blog_name": "AdventureSeeker",
+      "blog_details": "Chasing adrenaline rushes around the world."
+    },
+    {
+      "id": 16,
+      "author_name": "Ava Davis",
+      "email": "ava@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Tech geek and programming enthusiast.",
+      "blog_name": "CodeWorld",
+      "blog_details": "Coding adventures in the digital realm."
+    },
+    {
+      "id": 17,
+      "author_name": "Benjamin Garcia",
+      "email": "benjamin@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Culinary artist and food magician.",
+      "blog_name": "FoodMagic",
+      "blog_details": "Creating culinary masterpieces in the kitchen."
+    },
+    {
+      "id": 18,
+      "author_name": "Sophie Miller",
+      "email": "sophie@example.com",
+      "gender": "Female",
+      "image": "https://plus.unsplash.com/premium_photo-1669882305249-5af7f5ed5c10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Science enthusiast and space explorer.",
+      "blog_name": "SpaceOdyssey",
+      "blog_details": "Journeying into the cosmos and beyond."
+    },
+    {
+      "id": 19,
+      "author_name": "Daniel Brown",
+      "email": "daniel@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Dedicated to the world of movies and cinema.",
+      "blog_name": "CinephileCorner",
+      "blog_details": "Exploring the magic of cinema."
+    },
+    {
+      "id": 20,
+      "author_name": "Chloe Wilson",
+      "email": "chloe@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Lifestyle enthusiast and wellness advocate.",
+      "blog_name": "HealthyLiving",
+      "blog_details": "Leading a healthy and balanced life."
+    },
+    {
+      "id": 21,
+      "author_name": "Samuel Anderson",
+      "email": "samuel@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about architecture and design.",
+      "blog_name": "ArchitecturalWonders",
+      "blog_details": "Discovering the world's most incredible structures."
+    },
+    {
+      "id": 22,
+      "author_name": "Grace Martinez",
+      "email": "grace@example.com",
+      "gender": "Female",
+      "image": "https://plus.unsplash.com/premium_photo-1671718111036-0a4b73625a4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Tech enthusiast and AI researcher.",
+      "blog_name": "AIInnovations",
+      "blog_details": "Exploring the latest advancements in artificial intelligence."
+    },
+    {
+      "id": 23,
+      "author_name": "Christopher Lee",
+      "email": "christopher@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGVyc29ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Nature lover and wildlife enthusiast.",
+      "blog_name": "WildlifeExplorer",
+      "blog_details": "Getting up close with the wonders of the natural world."
+    },
+    {
+      "id": 24,
+      "author_name": "Lily Johnson",
+      "email": "lily@example.com",
+      "gender": "Female",
+      "image": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Fitness enthusiast and personal trainer.",
+      "blog_name": "FitnessFusion",
+      "blog_details": "Fusing fitness and fun for a healthier you."
+    },
+    {
+      "id": 25,
+      "author_name": "Jacob Smith",
+      "email": "jacob@example.com",
+      "gender": "Male",
+      "image": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "author_details": "Passionate about cars and the automotive world.",
+      "blog_name": "AutoEnthusiast",
+      "blog_details": "Exploring the latest in the world of automobiles."
+    },
+    {
+      "id": 26,
+      "author_name": "John Doe",
+      "email": "john@example.com",
+      "gender": "Male",
+      "image": "https://media.istockphoto.com/id/1485546774/photo/bald-man-smiling-at-camera-standing-with-arms-crossed.webp?b=1&s=170667a&w=0&k=20&c=c2rsC66nJQAjkN6vCkhyB0vLHUiZhJSACMCBVF9HJJs=",
+      "author_details": "I'm a technology enthusiast and love to write about the latest tech trends.",
+      "blog_name": "TechWorld",
+      "blog_details": "Exploring the world of technology."
+    },
+    {
+      "id": 27,
+      "author_name": "Alice Smith",
+      "email": "alice@example.com",
+      "gender": "Female",
+      "image": "https://media.istockphoto.com/id/1464159103/photo/thoughtful-woman-with-hand-on-chin-looking-up.webp?b=1&s=170667a&w=0&k=20&c=c5nz0mY577kCTETSJCmuoofJtQiH47FZCAv5fsEbCMA=",
+      "author_details": "Passionate about travel and discovering new places.",
+      "blog_name": "WanderlustAdventures",
+      "blog_details": "Join me on my adventures around the globe."
+    },
+    {
+      "id": 28,
+      "author_name": "Michael Wilson",
+      "email": "michael@example.com",
+      "gender": "Male",
+      "image": "https://media.istockphoto.com/id/1440149713/photo/black-man-tablet-and-smile-for-social-media-post-shopping-online-or-browsing-internet.webp?b=1&s=170667a&w=0&k=20&c=Fqxt3d4V6mNZEwXdf_4MJg5V6AisS1ASjQgOCPTgE30=",
+      "author_details": "Passionate about art and creativity.",
+      "blog_name": "ArtisticExpressions",
+      "blog_details": "Exploring the world of art and design."
+    },
+    {
+      "id": 29,
+      "author_name": "Aishwarya Patel",
+      "email": "aishwarya@example.com",
+      "gender": "Female",
+      "image": "https://media.istockphoto.com/id/1448474701/photo/graphic-designer-smiles-as-she-works-on-a-laptop-in-an-office.webp?b=1&s=170667a&w=0&k=20&c=JOhLct8v4IUPpiaobrTsZ-HI_lzfhmPJZvp8WSHfurc=",
+      "author_details": "Fashion and style blogger with a focus on Indian ethnic wear.",
+      "blog_name": "EthnicElegance",
+      "blog_details": "Stay trendy with the latest Indian ethnic fashion trends."
+    },
+    {
+      "id": 30,
+      "author_name": "Ella Wilson",
+      "email": "ella@example.com",
+      "gender": "Female",
+      "image": "https://media.istockphoto.com/id/1644128335/photo/cheerful-young-business-professional-using-smart-phone.webp?b=1&s=170667a&w=0&k=20&c=yZA0UT-QlWI_m-EtqyxxHdsHvYhtoucYV0_PbIN63z0=",
+      "author_details": "Tech enthusiast and gadget reviewer.",
+      "blog_name": "GadgetGuru",
+      "blog_details": "Exploring the latest gadgets and tech innovations."
+    }
+  ]
+  
